@@ -73,7 +73,7 @@ A new workflow has been added under the name MaxFile. The goal of this benchmark
 ## Improvements and Bugfixes Since 2.7.4
 
 ### CLI
-* Add missing options in DistributedLoad command ([](https://github.com/Alluxio/alluxio/commit/){:target="_blank"})
+* Add missing options in `DistributedLoad` command ([4da1bcb73b](https://github.com/Alluxio/alluxio/commit/https://github.com/Alluxio/alluxio/commit/4da1bcb73b){:target="_blank"})
 
 ### Docks, CSI, K8s
 * Fix Alluxio tarball owner in docker ([46b20e997a](https://github.com/Alluxio/alluxio/commit/46b20e997a){:target="_blank"})
